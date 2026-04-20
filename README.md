@@ -14,6 +14,7 @@ If you decide to run anything found in this site in your own SAS environment you
 
 ## Session Information
 Estimated Duration: 45 minutes of content and exercises.
+
 SAS Viya Cadence: 2025.09 LTS Release (September 2025)​.
 
 ## Thank You
